@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Samuel Library") (type "KiCad") (uri "${KIPRJMOD}/Samuel Library.pretty") (options "") (descr ""))
+)
