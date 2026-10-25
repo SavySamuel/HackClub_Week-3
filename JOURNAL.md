@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvgs24yo02oy01rpveatnnjy). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Following the guide, I built a custom MIDI controller designed to make music production portable. Built around the ESP32-S3-ZERO, this board combines mechanical key switches for triggering, dual slide potentiometers for parameter sweeps, a push-switch rotary encoder for navigation, and capacitive touch channels for quick gesture inputs; into a single PCB.
+> Following the guide, I built a custom MIDI controller designed to make music production portable. Built around the ESP32-S3-ZERO, this board combines mechanical key switches for triggering, dual slide potentiometers for parameter sweeps, a push-switch rotary encoder for navigation, and capacitive touch channels for quick gesture inputs; into a single PCB. Onshape Case for the MIDI: https://cad.onshape.com/documents/9c3e4e1773f598a6c621c8e7/w/239b4c5f4313af9012ed1455/e/c954f826d795d710e863c1da
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
