@@ -6,7 +6,7 @@ A custom-designed MIDI input device featuring tactile mechanical switches, analo
 
 ## Overview
 
-This project is a custom MIDI controller built around the Waveshare ESP32-S3-ZERO microcontroller. It integrates multiple types of user input—push buttons, sliders, a rotary encoder, and capacitive touch channels—allowing for expressive real-time control over music production software and live performances.
+This project is a custom MIDI controller built around the waveshare ESP32-S3-ZERO microcontroller. It integrates multiple types of user input: push buttons, sliders, a rotary encoder, and capacitive touch channels which allows for real-time control over music production.
 
 ---
 
