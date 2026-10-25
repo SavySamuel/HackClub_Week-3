@@ -41,3 +41,11 @@ A 3D render preview showcasing the physical layout and placement of components o
 ---
 
 > The [Journal](./JOURNAL.md) file details my experience this week
+
+---
+
+## Onshape Case for storing the MIDI Keypad
+
+[Onshape Link](https://cad.onshape.com/documents/9c3e4e1773f598a6c621c8e7/w/239b4c5f4313af9012ed1455/e/c954f826d795d710e863c1da)
+
+> Just a box to store the midi without damaging it. Made it with my MIDI's dimension in sight
